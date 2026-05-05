@@ -19,11 +19,10 @@ export default function Footer() {
 
           {/* 2. Trust & Credibility */}
           <div>
-            <h3 className="text-base font-semibold mb-3">Trust & Credibility</h3>
+            <h3 className="text-base font-semibold mb-3">Reliability</h3>
             <div className="flex items-center gap-3">
-              {/* Logo placeholders (replace with actual images under public/logos) */}
-              <div className="rounded-md border px-2 py-1 text-xs text-gray-700 dark:text-gray-300">Govt of India</div>
-              <div className="rounded-md border px-2 py-1 text-xs text-gray-700 dark:text-gray-300">Govt of Kerala</div>
+              <div className="rounded-md border px-2 py-1 text-xs text-gray-700 dark:text-gray-300">Farmer Tested</div>
+              <div className="rounded-md border px-2 py-1 text-xs text-gray-700 dark:text-gray-300">Regional Support</div>
             </div>
           </div>
 
@@ -50,8 +49,8 @@ export default function Footer() {
 
         {/* Bottom strip */}
         <div className="mt-8 border-t pt-4 text-center text-sm text-gray-700 dark:text-gray-300">
-          <div>Powered by AI with support from Agriculture Department, Govt. Of India</div>
-          <div className="mt-1">------ Team Innov8 -------</div>
+          <div>The Future of Farming: AI at Your Fingertips</div>
+          <div className="mt-1">------ Team Cypher -------</div>
         </div>
       </div>
     </footer>
